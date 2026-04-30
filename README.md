@@ -47,6 +47,16 @@
 
 [Blog post on new Microsoft AI trainings and certifications](https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128)
 
+Für AI / AI Agents wird dann drei Zertifizierungen auf Associate Level geben:
+
+* [AI-103 Microsoft Certified: Azure AI Apps and Agents Developer Associate (beta)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/)
+* AI-200 The Microsoft Certified: Azure AI Cloud Developer Associate
+* [AB-620 Microsoft Certified: AI Agent Builder Associate (beta)](https://learn.microsoft.com/en-us/credentials/certifications/ai-agent-builder-associate)
+
+... und eine Zertifizierung auf Expert Level:
+
+* [AI-100 Microsoft Certified: Agentic AI Business Solutions Architect](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect)
+
 <br>
 
 
@@ -57,6 +67,20 @@
 [Applied Skills Poster](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf)
 
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
+Für AI Agents passende Applied Skills:
+
+[Create an AI agent](https://learn.microsoft.com/en-us/credentials/applied-skills/create-an-ai-agent/)
+
+[Build a generative AI chat app](https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-generative-ai-chat-app/)
+
+[Enhance agents with autonomous capabilities](https://learn.microsoft.com/en-us/credentials/applied-skills/enhance-agents-with-autonomous-capabilities/)
+
+[Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/)
+
+[Implement knowledge mining with Azure AI Search](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-knowledge-mining-with-azure-ai-search/)
+
+[Secure AI Solutions in the Cloud](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-ai-solutions-in-the-cloud/)
 
 <br>
 
