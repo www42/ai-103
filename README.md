@@ -63,7 +63,7 @@ Für das Thema AI Agents wird es dann drei Zertifizierungen auf Associate Level 
 
 ... und eine Zertifizierung auf Expert Level:
 
-* [AI-100 Microsoft Certified: Agentic AI Business Solutions Architect](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect)
+* [AB-100 Microsoft Certified: Agentic AI Business Solutions Architect](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect)
 
 <br>
 
