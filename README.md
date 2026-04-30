@@ -20,6 +20,12 @@
 
 # AI-103 Develop AI Apps and Agents on Azure
 
+## Seminar 27. - 30.April 2026
+
+[Get the presentation](/pdf/)
+
+<br>
+
 ## Learning Paths
 
 | Learning Path                                             | GitHub Repo                                    | Labs Übersicht    |
