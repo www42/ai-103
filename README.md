@@ -55,7 +55,7 @@
 
 <br>
 
-Für das Thema AI Agents wird dann drei Zertifizierungen auf Associate Level geben:
+Für das Thema AI Agents wird es dann drei Zertifizierungen auf Associate Level geben:
 
 * [AI-103 Microsoft Certified: Azure AI Apps and Agents Developer Associate (beta)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/)
 * AI-200 The Microsoft Certified: Azure AI Cloud Developer Associate
