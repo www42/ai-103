@@ -20,13 +20,15 @@
 
 # AI-103 Develop AI Apps and Agents on Azure
 
+<!-- 
 ## Seminar 27. - 30. April 2026
 
 [Get the presentation](/pdf/)
 
 <br>
+-->
 
-## Learning Paths
+## Learning Paths 🚀
 
 | Learning Path                                             | GitHub Repo                                    | Labs Übersicht    |
 | :-------------------------------------------------------- | :--------------------------------------------- | :---------------- |
@@ -37,13 +39,13 @@
 
 <br>
 
-## Labs
+## Labs 🛠️
 
 [Go Deploy](https://lms.godeploy.it)
 
 <br>
 
-## Certification
+## Certification 🏅
 
 |   |   |
 | - | - |
@@ -67,7 +69,7 @@ Für das Thema AI Agents wird es dann drei Zertifizierungen auf Associate Level 
 
 <br>
 
-
+<!--
 ## New: Microsoft Applied Skills
 
 [Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
@@ -77,7 +79,9 @@ Für das Thema AI Agents wird es dann drei Zertifizierungen auf Associate Level 
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 <br>
+-->
 
+<!--
 Für AI Agents passende Applied Skills:
 
 * [Create an AI agent](https://learn.microsoft.com/en-us/credentials/applied-skills/create-an-ai-agent/)
@@ -88,15 +92,11 @@ Für AI Agents passende Applied Skills:
 * [Secure AI Solutions in the Cloud](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-ai-solutions-in-the-cloud/)
 
 <br>
+-->
 
 
-## Very New: Microsoft Learn for Github
 
-[Training for GitHub](https://learn.microsoft.com/en-us/training/github/)
-
-<br>
-
-## Microsoft Learn
+## Microsoft Learn 👨‍🎓
 
 [Microsoft Credentials and Certifications](https://learn.microsoft.com/en-us/credentials/)
 
@@ -110,9 +110,12 @@ Für AI Agents passende Applied Skills:
 
 [How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
 
+[Training for GitHub](https://learn.microsoft.com/en-us/training/github/)
+
 <br>
 
-## Microsoft Documentation Landing Pages
+
+## Microsoft Documentation Landing Pages 📲
 
 [Microsoft Foundry documentation](https://learn.microsoft.com/en-us/azure/foundry/)
 
@@ -149,11 +152,9 @@ Für AI Agents passende Applied Skills:
 <br>
 
 
-## Useful Links
+## Useful Links 🤿
 
 [Microsoft Build, June 2-3, 2026 / San Francisco and online](https://build.microsoft.com/en-US/home)
-
-[Microsoft AI Tour](https://aitour.microsoft.com/flow/microsoft/aitour/landing/page/home)
 
 
 
