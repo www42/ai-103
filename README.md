@@ -27,7 +27,6 @@
 
 [Get the presentation](/pdf/)
 
-<br>
 
 ### Montag
 
@@ -39,6 +38,7 @@
 
 [The Rome Call - AI Ethics](https://www.romecall.org/the-call/)
 
+<br>
 
 
 ## Learning Paths 🚀
@@ -113,8 +113,6 @@ Für AI Agents passende Applied Skills:
 
 
 ## Microsoft Learn 👨‍🎓
-
-[Microsoft Credentials and Certifications](https://learn.microsoft.com/en-us/credentials/)
 
 [Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
 
