@@ -20,13 +20,26 @@
 
 # AI-103 Develop AI Apps and Agents on Azure
 
-<!-- 
 ## Seminar 13. - 16. Juli 2026
+
+<!-- 
+-->
 
 [Get the presentation](/pdf/)
 
 <br>
--->
+
+### Montag
+
+[New Course SC-500: Implement end‑to‑end security controls for cloud and AI workloads](https://learn.microsoft.com/en-us/training/courses/sc-500t00)
+
+[AB-100: Architecting agentic AI business solutions - YouTube](https://www.youtube.com/playlist?list=PLWkuMDqdJEw4)
+
+[The different levels of how Claude thinks - YouTube](https://www.youtube.com/watch?v=rKV5JcALQoQ)
+
+[The Rome Call - AI Ethics](https://www.romecall.org/the-call/)
+
+
 
 ## Learning Paths 🚀
 
@@ -38,6 +51,13 @@
 | [LP4 Extract insights from visual data on Azure][LP4 LP]  | [mslearn-ai-vision][LP4 Repo1] <br> [mslearn-ai-information-extraction][LP4 Repo2] | [Labs][LP4 Labs1] <br> [Labs][LP4 Labs2]|
 
 <br>
+
+## This Course on ▶️YouTube
+
+[AI-103: Develop AI apps and agents on Azure - YouTube](https://www.youtube.com/playlist?list=PLWGIg_TYLeEQ)
+
+<br>
+
 
 ## Labs 🛠️
 
