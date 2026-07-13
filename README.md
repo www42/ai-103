@@ -21,7 +21,7 @@
 # AI-103 Develop AI Apps and Agents on Azure
 
 <!-- 
-## Seminar 27. - 30. April 2026
+## Seminar 13. - 16. Juli 2026
 
 [Get the presentation](/pdf/)
 
@@ -41,7 +41,7 @@
 
 ## Labs 🛠️
 
-[Go Deploy](https://lms.godeploy.it)
+[Skillable](https://experteach.learnondemand.net/User/Login?ReturnUrl=%2F)
 
 <br>
 
@@ -51,21 +51,17 @@
 | - | - |
 | <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) |
 
-[Blog post on new exam AI-103](https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-apps-and-agents-developer-associate/4494126)
-
 [Blog post on new Microsoft AI trainings and certifications](https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128)
 
 <br>
 
-Für das Thema AI Agents wird es dann drei Zertifizierungen auf Associate Level geben:
+Microsoft AI Certifications:
+* [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) (AI-901)
+* [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) (AI-103)
+* [Microsoft Certified: Azure AI Cloud Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/) (AI-200)
+* [Microsoft Certified: Cloud and AI Security Engineer Associate (beta)](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/) (SC-500)
+* [Microsoft Certified: AI Agent Builder Associate](https://learn.microsoft.com/en-us/credentials/certifications/ai-agent-builder-associate/) (AB-620)
 
-* [AI-103 Microsoft Certified: Azure AI Apps and Agents Developer Associate (beta)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/)
-* AI-200 The Microsoft Certified: Azure AI Cloud Developer Associate
-* [AB-620 Microsoft Certified: AI Agent Builder Associate (beta)](https://learn.microsoft.com/en-us/credentials/certifications/ai-agent-builder-associate)
-
-... und eine Zertifizierung auf Expert Level:
-
-* [AB-100 Microsoft Certified: Agentic AI Business Solutions Architect](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect)
 
 <br>
 
