@@ -27,6 +27,16 @@
 
 [Get the presentation](/pdf/)
 
+### Dienstag
+
+[Microsoft IQ | Unified Enterprise Intelligence for AI](https://www.microsoft.com/en-us/ai/microsoft-iq?msockid=0aded17b5fdc658c0cc6c7f95e0e6466)
+
+[Microsoft IQ Overview (Work IQ, Foundry IQ and Fabric IQ) - YouTube John Savill](https://www.youtube.com/watch?v=1ri8HSbN4q4)
+
+[3Blue1Brown - YouTube](https://www.youtube.com/@3blue1brown)
+
+<br>
+
 
 ### Montag
 
