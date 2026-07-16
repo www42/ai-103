@@ -145,6 +145,8 @@ Für AI Agents passende Applied Skills:
 
 [Microsoft Foundry Classic documentation](https://learn.microsoft.com/en-us/azure/foundry-classic/)
 
+[microsoft/foundry-toolkit](https://github.com/microsoft/foundry-toolkit/tree/main)
+
 [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 
 [Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/)
