@@ -86,7 +86,7 @@ Other Microsoft AI Certifications:
 * [Microsoft Certified: Cloud and AI Security Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/) (SC-500)
 * [Microsoft Certified: Multi-Agent AI Solutions Expert (beta)](https://learn.microsoft.com/en-us/credentials/certifications/multi-agent-ai-solutions-expert/) (AI-500)
 
-[Train Cert Poster](https://aka.ms/traincertposter)
+➡️ [Train Cert Poster](https://aka.ms/traincertposter) ⬅️
 
 
 <br>
