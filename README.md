@@ -76,7 +76,7 @@
 
 |   |   |
 | - | - |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) |
+| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/)  (AI-103)|
 
 <br>
 
