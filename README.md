@@ -76,16 +76,17 @@
 
 |   |   |
 | - | - |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) |
+| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Azure AI Apps and Agents Developer Associate] (AI-103)(https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) |
 
 <br>
 
-Microsoft AI Certifications:
+Other Microsoft AI Certifications:
 * [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) (AI-901)
-* [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) (AI-103)
 * [Microsoft Certified: Azure AI Cloud Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/) (AI-200)
 * [Microsoft Certified: Cloud and AI Security Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/) (SC-500)
 * [Microsoft Certified: Multi-Agent AI Solutions Expert (beta)](https://learn.microsoft.com/en-us/credentials/certifications/multi-agent-ai-solutions-expert/) (AI-500)
+
+[Train Cert Poster](https://aka.ms/traincertposter)
 
 
 <br>
@@ -118,8 +119,6 @@ Für AI Agents passende Applied Skills:
 
 
 ## Microsoft Learn 👨‍🎓
-
-[Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
 
 [Microsoft Learn](https://learn.microsoft.com)
 
