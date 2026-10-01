@@ -20,10 +20,8 @@
 
 # AI-103 Develop AI Apps and Agents on Azure
 
-## Seminar 13. - 16. Juli 2026
-
 <!-- 
--->
+## Seminar 5. - 8. Oktober 2026
 
 [Get the presentation](/pdf/)
 
@@ -33,8 +31,6 @@
 [Microsoft IQ | Unified Enterprise Intelligence for AI](https://www.microsoft.com/en-us/ai/microsoft-iq?msockid=0aded17b5fdc658c0cc6c7f95e0e6466)
 
 [Microsoft IQ Overview (Work IQ, Foundry IQ and Fabric IQ) - YouTube John Savill](https://www.youtube.com/watch?v=1ri8HSbN4q4)
-
-[3Blue1Brown - YouTube](https://www.youtube.com/@3blue1brown)
 
 
 
@@ -49,6 +45,7 @@
 [The Rome Call - AI Ethics](https://www.romecall.org/the-call/)
 
 <br>
+-->
 
 
 ## Learning Paths 🚀
@@ -80,8 +77,6 @@
 |   |   |
 | - | - |
 | <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) |
-
-[Blog post on new Microsoft AI trainings and certifications](https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128)
 
 <br>
 
