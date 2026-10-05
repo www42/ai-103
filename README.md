@@ -68,7 +68,8 @@
 
 ## Labs 🛠️
 
-[Skillable](https://experteach.learnondemand.net/User/Login?ReturnUrl=%2F)
+[Go Deploy](https://lms.godeploy.it)
+
 
 <br>
 
@@ -91,7 +92,6 @@ Other Microsoft AI Certifications:
 
 <br>
 
-<!--
 ## New: Microsoft Applied Skills
 
 [Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
@@ -101,7 +101,6 @@ Other Microsoft AI Certifications:
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 <br>
--->
 
 <!--
 Für AI Agents passende Applied Skills:
