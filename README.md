@@ -172,14 +172,12 @@ Für AI Agents passende Applied Skills:
 
 <br>
 
-
+<!--
 ## Useful Links 🤿
 
-[Microsoft Build, June 2-3, 2026 / San Francisco and online](https://build.microsoft.com/en-US/home)
-
-
-
 <br>
+-->
+
 
 ## Your Trainer
 #### Thomas Jäkel
