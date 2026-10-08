@@ -37,6 +37,18 @@
 * [Emails](apl/Get_started_developing_agents_in_Microsoft_Foundry-Emails.md)
 * [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
 
+### ➡️ Microsoft Applied Skills: Build a generative AI chat app
+* [Emails](apl/Build_a_generative_AI_chat_app-Emails.md)
+* [Repos](apl/Repos/)
+* [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-generative-ai-chat-app/)
+
+
+### ➡️ Microsoft Applied Skills: Integrate model context protocol tools with agents in Microsoft Foundry
+
+* [Emails](apl/Integrate_model_context_protocol_tools_with_agents_in_Microsoft_Foundry-Emails.md)
+* [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/integrate-model-context-protocol-tools-with-agents-in-microsoft-foundry/)
+
+
 <br>
 <br>
 
