@@ -32,7 +32,7 @@
 
 [Applied Skills Poster](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf)
 
-### Microsoft Applied Skills: Get started developing agents in Microsoft Foundry
+### ➡️ Microsoft Applied Skills: Get started developing agents in Microsoft Foundry
 
 * [Emails](apl/Get_started_developing_agents_in_Microsoft_Foundry-Emails.md)
 * [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/)
