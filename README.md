@@ -21,13 +21,14 @@
 # AI-103 Develop AI Apps and Agents on Azure
 
 <!-- 
-## Seminar 5. - 8. Oktober 2026
+## Seminar 2. - 5. November 2026
 
 [Get the presentation](/pdf/)
 
 <br>
 -->
 
+<!-- 
 ## Applied Skills
 
 [Applied Skills Poster](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf)
@@ -52,7 +53,7 @@
 
 
 <br>
-<br>
+-->
 
 
 ## Learning Paths 🚀
@@ -99,7 +100,6 @@ Other Microsoft AI Certifications:
 
 <br>
 
-<!--
 
 ## New: Microsoft Applied Skills
 
@@ -110,7 +110,6 @@ Other Microsoft AI Certifications:
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 <br>
--->
 
 <!--
 Für AI Agents passende Applied Skills:
@@ -184,6 +183,8 @@ Für AI Agents passende Applied Skills:
 
 
 ## Useful Links 🤿
+
+[Microsoft Ignite 16 - 17 Nov 2026](https://ignite.microsoft.com/en-US/home)
 
 [The Rome Call - AI Ethics](https://www.romecall.org/the-call/)
 
