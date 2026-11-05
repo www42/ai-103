@@ -21,14 +21,21 @@
 # AI-103 Develop AI Apps and Agents on Azure
 
 <!-- 
-## Seminar 2. - 5. November 2026
-
-[Get the presentation](/pdf/)
-
-<br>
 -->
 
+## Seminar 2. - 5. November 2026
+
 <!-- 
+[Get the presentation](/pdf/)
+-->
+[Course Evaluation](https://www.flane.de/eval)   Password = 20R0MN1E
+
+[Achievment Code Microsoft Learn](https://www.flane.de/ms-achievement)  Code = 64K4N7
+<br>
+
+<!-- 
+-->
+
 ## Applied Skills
 
 [Applied Skills Poster](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf)
@@ -53,7 +60,27 @@
 
 
 <br>
+
+<!--
+Für AI Agents passende Applied Skills:
+
+* [Create an AI agent](https://learn.microsoft.com/en-us/credentials/applied-skills/create-an-ai-agent/)
+* [Build a generative AI chat app](https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-generative-ai-chat-app/)
+* [Enhance agents with autonomous capabilities](https://learn.microsoft.com/en-us/credentials/applied-skills/enhance-agents-with-autonomous-capabilities/)
+* [Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/)
+* [Implement knowledge mining with Azure AI Search](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-knowledge-mining-with-azure-ai-search/)
+* [Secure AI Solutions in the Cloud](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-ai-solutions-in-the-cloud/)
+
+<br>
 -->
+
+
+
+
+
+
+
+
 
 
 ## Learning Paths 🚀
@@ -100,7 +127,7 @@ Other Microsoft AI Certifications:
 
 <br>
 
-
+<!--
 ## New: Microsoft Applied Skills 🤩
 
 [Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
@@ -110,19 +137,8 @@ Other Microsoft AI Certifications:
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 <br>
-
-<!--
-Für AI Agents passende Applied Skills:
-
-* [Create an AI agent](https://learn.microsoft.com/en-us/credentials/applied-skills/create-an-ai-agent/)
-* [Build a generative AI chat app](https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-generative-ai-chat-app/)
-* [Enhance agents with autonomous capabilities](https://learn.microsoft.com/en-us/credentials/applied-skills/enhance-agents-with-autonomous-capabilities/)
-* [Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/)
-* [Implement knowledge mining with Azure AI Search](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-knowledge-mining-with-azure-ai-search/)
-* [Secure AI Solutions in the Cloud](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-ai-solutions-in-the-cloud/)
-
-<br>
 -->
+
 
 
 
